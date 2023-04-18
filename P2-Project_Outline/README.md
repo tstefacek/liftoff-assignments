@@ -7,12 +7,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A database creation and management application that allows the user to create customizable inventories with search and organizational capabilities. In order to access the application, users will create individual profiles that are protected by authentication and can offer differing levels of authorization.
+
 ### Features
-Include Features here
+Authentication/Authorization 
+CRUD functionality: Users will be able to create/modify the inventories and the tiems contained wihthin them when logged in.
+Search: Users will be able to search and organize inventory item by type etc.
+Inventories can be converted to PDF and downloaded.
+
+
 ### Technologies
-Include Technologies here
+Languages: JavaScript, Java
+React and Redux
+Bootstrap
+JQuery
+Hibernate
+ESLint
+SQL Server Database
+Azure
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Azure
+React and Redux
+ESLint
+Authentication
+Authorization
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/Ih9SNY9R/kanban-template

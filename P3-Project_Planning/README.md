@@ -9,6 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[Diagrams.net Document](https://drive.google.com/file/d/1x_fYUpzcVKDzIfnxyDEiYVQf4om45zot/view?usp=sharing)
 - P3-Project_Planning\Wireframes\dashboard.drawio.pdf
 - P3-Project_Planning\Wireframes\inventory-page.drawio.pdf
 - P3-Project_Planning\Wireframes\login-page.drawio.pdf
@@ -16,8 +17,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+//Team repo hasn't been created yet

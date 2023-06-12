@@ -17,8 +17,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-[Trello Board](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+[Trello Board](https://trello.com/b/Ih9SNY9R/inventorme)
 
 ### Project Repo Link
 
-//Team repo hasn't been created yet
+https://github.com/LiftOff-AC3/inventorme
